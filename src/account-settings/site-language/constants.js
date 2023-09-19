@@ -1,5 +1,10 @@
 const siteLanguageList = [
   {
+    code: 'el',
+    name: 'Ελληνικά',
+    released: true,
+  },
+  {
     code: 'en',
     name: 'English',
     released: true,
