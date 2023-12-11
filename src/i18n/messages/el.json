@@ -211,7 +211,7 @@
   "account.settings.name.change.cancel": "Ακύρωση",
   "error.notfound.message": "The page you're looking for is unavailable or there's an error in the URL. Please check the URL and try again.",
   "account.settings.editable.field.password.reset.button.confirmation.support.link": "technical support",
-  "account.settings.editable.field.password.reset.button.confirmation": "Έχουμε αποστείλει μήνυμα στη διεύθυνση  {email}. Κάντε κλικ στο σύνδεσμο που θα βρείτε στο μήνυμα για να αλλάξετε τον κωδικό σας. Εάν δεν λάβατε το μήνυμα, παρακαλούμε επικοινωνήστε με την {anchorStart}τεχνική υποστήριξη{anchorEnd}.\n",
+  "account.settings.editable.field.password.reset.button.confirmation": "Έχουμε αποστείλει μήνυμα στη διεύθυνση {email}. Κάντε κλικ στο σύνδεσμο που θα βρείτε στο μήνυμα για να αλλάξετε τον κωδικό σας. Εάν δεν λάβατε το μήνυμα, παρακαλούμε επικοινωνήστε με την {technicalSupportLink}.",
   "account.settings.editable.field.password.reset.button": "Αλλαγή κωδικού πρόσβασης",
   "account.settings.editable.field.password.reset.button.forbidden": "Your previous request is in progress, please try again in few moments.",
   "account.settings.editable.field.password.reset.label": "Κωδικός",
