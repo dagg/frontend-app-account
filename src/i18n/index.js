@@ -1,4 +1,5 @@
 import arMessages from './messages/ar.json';
+import elMessages from './messages/el.json';
 import deMessages from './messages/de.json';
 import es419Messages from './messages/es_419.json';
 import faIRMessages from './messages/fa_IR.json';
@@ -17,6 +18,7 @@ import ptptCAMessages from './messages/pt_PT.json';
 
 const messages = {
   ar: arMessages,
+  el: elMessages,
   'es-419': es419Messages,
   'fa-ir': faIRMessages,
   fr: frMessages,
