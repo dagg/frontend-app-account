@@ -98,11 +98,11 @@ export class DeleteAccount extends React.Component {
             { siteName: getConfig().SITE_NAME },
           )}
         </p>
-        <p>
+        {/* <p>
           <Hyperlink destination="https://support.edx.org/hc/en-us/sections/115004139268-Manage-Your-Account-Settings">
             {intl.formatMessage(messages['account.settings.delete.account.text.change.instead'])}
           </Hyperlink>
-        </p>
+        </p> */}
         <p>
           <Button
             variant="outline-danger"
